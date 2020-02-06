@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css?family=Nothing+You+Could+Do&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Barlow:100,200,300,400,500,600,700');
+body{
+  margin: 0;
+  text-align: center;
+  color: #ffffff;
+  background-color: grey;
+  font-family: 'Barlow', sans-serif;
+}
+h1, h2{
+  padding-bottom: 1%;
+  margin: 0;
+  font-weight: bold;
+  font-family: 'Nothing You Could Do', sans-serif;
+}
+p{
+  font-weight: bold;
+  font-family: sans-serif;
+}
+.box-link{
+  background-color: #606060;
+}
+a{
+  color: #fff;
+  font-weight: bold;
+   font-family: 'Nothing You Could Do', sans-serif;
+  font-size: 20px;
+  padding: 0 20px;
+}
+a:hover{
+  text-decoration: none;
+  color: #fff;
+}
+.types{
+  padding: 0 10px;
+  border: solid 1px #fff;
+}
+/* PARTIE FOMULAIRE */
+form{
+  margin: auto;
+}
+.h2formulaire{
+  padding-bottom: 5%;
+}
+.modal-header{
+  border-bottom: 0;
+   background-color: grey;
+  
+}
+.modal-content{
+  width: 100rem;
+  background: #222222;
+}
+
